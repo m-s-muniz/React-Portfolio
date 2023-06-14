@@ -5,6 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(46, 50, 51);
+  color: aquamarine
+}
+
+
+a {
+    color:rgb(250, 222, 215);
+}
+
+a:hover {
+  color:gold;
+}
+
+a:active {
+  font-weight: bold;
+  font-size: 1.2em;
+  color:brown;
 }
 
 code {
