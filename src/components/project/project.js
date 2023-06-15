@@ -1,8 +1,19 @@
-import React from 'react'
+// import React from 'react'
 
-const project = () => {
+// const project = () => {
+//   return (
+//     <div>project</div>
+//   )
+// }
+
+export default project
+import './project.css';
+const project = ({title, children}) => {
   return (
-    <div>project</div>
+    <div className="project-box">
+      <div className="project-name">{title}</div>
+      <div className='project-info'>{children}</div>
+    </div>
   )
 }
 
