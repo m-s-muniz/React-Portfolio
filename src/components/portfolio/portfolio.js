@@ -14,7 +14,7 @@ import IMG2 from '../../../src/assets/images/foodie-fetch-screenshot.png'
 import IMG3 from '../../../src/assets/images/CoordiNation-screenshot.png'
 import IMG4 from '../../../src/assets/images/tech-blog.png'
 import IMG5 from '../../../src/assets/images/weather-dashboard.png'
-// import IMG6 from '../../../src/assets/images/Horiseon'
+import IMG6 from '../../../src/assets/images/Jate.png'
 
 
 
@@ -54,13 +54,13 @@ const data = [
     github: 'https://github.com/m-s-muniz/weather-dashboard',
     demo: 'https://m-s-muniz.github.io/weather-dashboard/'
   },
-  // {
-  //   id: 6,
-  //   image: IMG6,
-  //   title:'Just Another Text Editor',
-  //   github: 'https://github.com/m-s-muniz/Text-Editor-PWA',
-  //   demo: 'https://jate-pwa-msmuniz.herokuapp.com/'
-  // }
+  {
+    id: 6,
+    image: IMG6,
+    title:'Just Another Text Editor',
+    github: 'https://github.com/m-s-muniz/Text-Editor-PWA',
+    demo: 'https://jate-pwa-msmuniz.herokuapp.com/'
+  }
   ]
   
 

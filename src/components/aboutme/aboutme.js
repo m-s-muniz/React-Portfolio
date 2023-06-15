@@ -10,8 +10,9 @@
 
 import React from 'react';
 import headShot from "../../assets/images/myphoto2.jpg"
+import resume from "../../assets/myresume.pdf"
 const imgStyle = {
-    padding: '20px',
+    padding: '30px',
     height:'400px',
     width:'300px'
 }
@@ -21,18 +22,27 @@ const linkStyle = {
 }
 
 function aboutme() {
-    return(
-        <div class="jumbotron">
-  <h1 class="display-4">About Me</h1>
-  <img class="headshot" src={headShot} height={400} width={300} alt="headshot" style={imgStyle}></img>
-  <p class="lead">Junior Web Developer</p>
-  <hr class="my-4"></hr>
-  <p></p>
-  <p class="lead">
-  <button type="button" class="btn btn-dark"><a href="./assets/images/myresume.pdf" style={linkStyle}>View Full Resume</a></button>
-  </p>
-</div>
-    )
+  return (
+    <div class="jumbotron">
+      <h1 class="display-4">About Me</h1>
+      <img
+        class="headshot"
+        src={headShot}
+        alt="headshot"
+        style={imgStyle}
+      ></img>
+      <p class="lead">Junior Web Developer</p>
+      <hr class="my-4"></hr>
+      <p></p>
+      <p class="lead">
+        <button type="button" class="btn btn-dark">
+          <a href={resume} style={linkStyle}>
+            View Full Resume
+          </a>
+        </button>
+      </p>
+    </div>
+  );
 }
 
 export default aboutme;
