@@ -4,7 +4,9 @@
     grid-gap: 35px;
 
 } */
-
+.portfolio {
+    color:#842840 ;
+}
 .portfolio-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

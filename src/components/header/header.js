@@ -7,7 +7,6 @@ export default function header (props) {
     <Navbar collapseOnSelect className="navbar" variant="dark" expand="sm"
     aria-current="true">
         <Navbar.Brand href="/React-Portfolio" className="name">
-          {" "}
           Michael Muniz
         </Navbar.Brand>
 
