@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/m-s-muniz/React-Portfolio/static/css/main.e51454ec.css",
+    "main.js": "/m-s-muniz/React-Portfolio/static/js/main.87eaff41.js",
+    "static/js/787.a2cb61a6.chunk.js": "/m-s-muniz/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/CoordiNation-screenshot.png": "/m-s-muniz/React-Portfolio/static/media/CoordiNation-screenshot.ffac6180263c59cee583.png",
+    "static/media/foodie-fetch-screenshot.png": "/m-s-muniz/React-Portfolio/static/media/foodie-fetch-screenshot.e12936078c31cbb7129a.png",
+    "static/media/myphoto2.jpg": "/m-s-muniz/React-Portfolio/static/media/myphoto2.ad824dad3c5467fba644.jpg",
+    "static/media/Jate.png": "/m-s-muniz/React-Portfolio/static/media/Jate.ee5082bc861e4389a06b.png",
+    "static/media/weather-dashboard.png": "/m-s-muniz/React-Portfolio/static/media/weather-dashboard.3a45e0aa31e319adf38a.png",
+    "static/media/tech-blog.png": "/m-s-muniz/React-Portfolio/static/media/tech-blog.0b060794479aa87946cd.png",
+    "static/media/Note-Taker.png": "/m-s-muniz/React-Portfolio/static/media/Note-Taker.b8e9078ec8876afe14a1.png",
+    "static/media/myresume.pdf": "/m-s-muniz/React-Portfolio/static/media/myresume.155c4c6f43be2b05e193.pdf",
+    "index.html": "/m-s-muniz/React-Portfolio/index.html",
+    "main.e51454ec.css.map": "/m-s-muniz/React-Portfolio/static/css/main.e51454ec.css.map",
+    "main.87eaff41.js.map": "/m-s-muniz/React-Portfolio/static/js/main.87eaff41.js.map",
+    "787.a2cb61a6.chunk.js.map": "/m-s-muniz/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51454ec.css",
+    "static/js/main.87eaff41.js"
+  ]
+}
