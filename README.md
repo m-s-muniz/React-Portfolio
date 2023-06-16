@@ -38,7 +38,9 @@ To run the portfolio project locally, please follow these steps:
 The portfolio project serves as a showcase for my work as a developer. It demonstrates my skills, projects, and achievements. You can navigate through the portfolio to explore different projects and learn more about my expertise.
 
 ## Deployment Link
-
+https://m-s-muniz.github.io/React-Portfolio/
+## GitHub Link
+https://github.com/m-s-muniz/React-Portfolio
 
 ## Screenshot
 ![Alt text](<src/assets/images/React Portfolio screenshot1.png>)
