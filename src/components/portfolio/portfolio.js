@@ -9,7 +9,7 @@
 
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../../src/assets/images/Horiseon.png'
+import IMG1 from '../../../src/assets/images/Note-Taker.png'
 import IMG2 from '../../../src/assets/images/foodie-fetch-screenshot.png'
 import IMG3 from '../../../src/assets/images/CoordiNation-screenshot.png'
 import IMG4 from '../../../src/assets/images/tech-blog.png'
@@ -22,9 +22,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title:'Horiseon',
-    github: 'https://github.com/m-s-muniz/week1-challenge-accessible-html',
-    demo: 'https://m-s-muniz.github.io/week1-challenge-accessible-html/'
+    title:'Note Taker: Express.js',
+    github: 'https://github.com/m-s-muniz/Note-Taker-Express',
+    demo: 'https://note-taker-app-michael.herokuapp.com//'
   },
   {
     id: 2,
