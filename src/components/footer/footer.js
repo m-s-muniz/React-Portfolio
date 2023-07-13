@@ -17,7 +17,7 @@ const copyStyle = {
 
 function footer() {
     return(
-        <div class="footer" id="footer">
+        <div className="footer" id="footer">
             <a href="#LinkedIn" target="_blank" rel="noreferrer noopener" style={copyStyle}>LinkedIn</a>
             <p style={copyStyle}>© Michael Muniz 2023</p>
             <a href="https://github.com/m-s-muniz" target="_blank" rel="noreferrer noopener" style={copyStyle}>GitHub</a>

@@ -15,23 +15,24 @@ import IMG3 from '../../../src/assets/images/CoordiNation-screenshot.png'
 import IMG4 from '../../../src/assets/images/tech-blog.png'
 import IMG5 from '../../../src/assets/images/weather-dashboard.png'
 import IMG6 from '../../../src/assets/images/Jate.png'
+import IMG7 from '../../../src/assets/images/IMA-GEN4.png'
 
 
 
 const data = [
   {
-    id: 1,
-    image: IMG1,
-    title:'Note Taker: Express.js',
-    github: 'https://github.com/m-s-muniz/Note-Taker-Express',
-    demo: 'https://note-taker-app-michael.herokuapp.com//'
+    id: 7,
+    image: IMG7,
+    title:'IMA-GEN',
+    github: 'https://github.com/stephen-castillo/IMA-GEN',
+    demo: 'https://ima-gen-1220c390e173.herokuapp.com/'
   },
   {
     id: 2,
     image: IMG2,
     title:'Foodie-Fetch',
     github: 'https://github.com/stephen-castillo/Foodie-Fetch',
-    demo: 'https://stephen-castillo.github.io/Foodie-Fetch/ '
+    demo: 'https://stephen-castillo.github.io/Foodie-Fetch/'
   },
   {
     id: 3,
@@ -39,6 +40,13 @@ const data = [
     title:'CoordiNation',
     github: 'https://github.com/Liz-Nino64/CoordiNation',
     demo: 'https://coordination-8.herokuapp.com/'
+  },
+  {
+    id: 1,
+    image: IMG1,
+    title:'Note Taker: Express.js',
+    github: 'https://github.com/m-s-muniz/Note-Taker-Express',
+    demo: 'https://note-taker-app-michael.herokuapp.com/'
   },
   {
     id: 4,
@@ -60,7 +68,7 @@ const data = [
     title:'Just Another Text Editor',
     github: 'https://github.com/m-s-muniz/Text-Editor-PWA',
     demo: 'https://jate-pwa-msmuniz.herokuapp.com/'
-  }
+  },
   ]
   
 
