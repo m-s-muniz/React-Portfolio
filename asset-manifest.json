@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.e51454ec.css",
-    "main.js": "/React-Portfolio/static/js/main.5b3acc26.js",
+    "main.css": "/React-Portfolio/static/css/main.6cf934be.css",
+    "main.js": "/React-Portfolio/static/js/main.3050aa4f.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/CoordiNation-screenshot.png": "/React-Portfolio/static/media/CoordiNation-screenshot.ffac6180263c59cee583.png",
     "static/media/foodie-fetch-screenshot.png": "/React-Portfolio/static/media/foodie-fetch-screenshot.e12936078c31cbb7129a.png",
+    "static/media/IMA-GEN4.png": "/React-Portfolio/static/media/IMA-GEN4.690ec7643cc510c079f4.png",
     "static/media/myphoto2.jpg": "/React-Portfolio/static/media/myphoto2.ad824dad3c5467fba644.jpg",
     "static/media/Jate.png": "/React-Portfolio/static/media/Jate.ee5082bc861e4389a06b.png",
     "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.3a45e0aa31e319adf38a.png",
@@ -12,12 +13,12 @@
     "static/media/Note-Taker.png": "/React-Portfolio/static/media/Note-Taker.b8e9078ec8876afe14a1.png",
     "static/media/myresume.pdf": "/React-Portfolio/static/media/myresume.155c4c6f43be2b05e193.pdf",
     "index.html": "/React-Portfolio/index.html",
-    "main.e51454ec.css.map": "/React-Portfolio/static/css/main.e51454ec.css.map",
-    "main.5b3acc26.js.map": "/React-Portfolio/static/js/main.5b3acc26.js.map",
+    "main.6cf934be.css.map": "/React-Portfolio/static/css/main.6cf934be.css.map",
+    "main.3050aa4f.js.map": "/React-Portfolio/static/js/main.3050aa4f.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e51454ec.css",
-    "static/js/main.5b3acc26.js"
+    "static/css/main.6cf934be.css",
+    "static/js/main.3050aa4f.js"
   ]
 }
